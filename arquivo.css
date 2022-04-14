@@ -1,0 +1,22 @@
+.body{
+    font-family:'Arial', sans-serif, Helvetica;
+    font-size: 25px;
+    background-color: black;
+    color:black
+    padding: 10px;}
+       
+
+  .legend{
+  border-radius: 40px;
+  border: 18px solid white;
+  align-items:center;
+  background-color:orange;
+  display:flex
+  justify-content:center;
+  text-align:center;
+  margin: 500px;}
+
+
+
+
+
